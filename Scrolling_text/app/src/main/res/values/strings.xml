@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scrolling_text</string>
+    <string name="article_heading">Quantum Computing</string>
+    <string name="subtitle">A new branch of science </string>
+    <string name="content">The field of quantum computing is taking a quantum leap. Humanity is closer to godspeed than they think. Considering how Science took its babysteps, scientists can sit back, watch its progress like a happy parent watching their child grow. From classic mechanics to quantum mechanics science has expanded exponentially and one of its most complex and fruitful result is Quantum Computing. Quantum Computing is an idea of using the principles of Quantum Mechanics to increase the speed of computing and processing exponentially. In 2016, IBM put the first quantum computer on the cloud, expanding the reach of the technology beyond research laboratories.The field is still in its babysteps and needs more and more scientists and multidisciplinary engineers for its development.
+
+The normal computer which we use, uses bits. These are like tiny switches that can be in off position and on position that is 0 and 1 respectively. Every image, video or even a website is a combination of millions of these zeroes and ones. But this nature changes when it comes to the real world. Scientists discovered that when we analyze things at a much smaller scale, weird things start to happen. This uncertainty created a whole new field of Quantum Mechanics. Normal computers, even supercomputers are not accurate enough to handle uncertainty and simulate it. This gave rise to concept of Quantum computing.</string>
+
+    <string name="Buttonname">ADD COMMENT</string>
+</resources>
